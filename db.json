@@ -1,0 +1,25 @@
+{
+  "sign_up": [
+    {
+      "id": "a2dfbe34-0827-4ed9-b303-b46b9ecad515",
+      "email": "hassan@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "terms": true
+    },
+    {
+      "id": "4c3ea2f0-c452-44ab-ba1d-f607ae846381",
+      "email": "ali@gmail.com",
+      "password": "987654",
+      "role": "chef",
+      "terms": true
+    },
+    {
+      "id": "adb22ad4-3f29-446e-94bd-490d2621a85f",
+      "email": "usman@gmail.com",
+      "password": "123987",
+      "role": "restaurant",
+      "terms": true
+    }
+  ]
+}
